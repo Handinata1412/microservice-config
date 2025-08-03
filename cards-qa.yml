@@ -1,0 +1,11 @@
+build:
+    version: "2.0"
+
+cards:
+    message: "Welcome to EazyBank cards related QA APIs"
+    contactDetails: 
+        name: "Mas Qa - QA Lead"
+        email: "qa@example.com"
+    onCallSupport:
+        - (444) 232-8827
+        - (444) 341-7584 
